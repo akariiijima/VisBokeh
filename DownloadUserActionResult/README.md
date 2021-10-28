@@ -8,3 +8,7 @@
 
 
 
+
+- Plot randomly dots in three colors (red, blue, green)
+- Double click to convert colors (red -> blue -> green -> red...)
+- Download the result of the color transformation in json format
